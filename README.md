@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I'm Hannah (@hannahgsimon)
+- 👋 Hello world! I'm Hannah (@hannahgsimon)
 - 📚 Enthusiastic Master of Computer Science student at Cleveland State University, graduating in May 2026
 - 🔭 Seeking a computer science internship for summer 2025
 - 🌱 Passionate about continuous improvement, learning, growth, & pushing the boundaries of technology
