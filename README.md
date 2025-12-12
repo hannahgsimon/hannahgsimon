@@ -4,7 +4,7 @@
 - 🌱 Passionate about continuous improvement, learning, growth, & pushing the boundaries of technology
 - 🚀 I enjoy solving complex problems and advancing technology through computational innovation
 - 💡 Interests include software engineering, mathematics, algorithm optimization, embedded systems, AI, machine learning, quantum computing, cryptography, & data mining
-- ⚡ Fun fact: I'm a board game enthusiast with a soft spot for strategy games!
+- 🌎 Outside of my technical work I enjoy traveling, discovering new places, exploring national parks, and the occasional bungee-jumping adventure.
 
 ### Connect With Me
 - 🤝 I'm always eager to expand my network, collaborate on new projects, or discuss innovative ideas. Please feel free to reach out!  
