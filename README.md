@@ -57,6 +57,15 @@
 ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-3B4252?style=flat&logo=testing-library&logoColor=E33332)
 ![Integration Testing](https://img.shields.io/badge/-Integration%20Testing-3B4252?style=flat&logo=testing-library&logoColor=E33332)
 
+#### Systems & Architecture
+> Systems Engineering · Data Structures & Algorithms · Object-Oriented Programming · High Performance Computing · Agent-Based Modeling
+
+#### Simulation & Modeling
+> Digital Twins · Multiplatform Simulation · Physics Engine Integration · Omniverse · Unity · XR (VR/AR)
+
+#### Interpersonal Skills
+> Communication · Teamwork · Active Listening · Leadership · Critical Thinking · Problem Solving · Creativity
+
 ---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hannahgsimon&color=800080)
