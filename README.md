@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hello world! I'm Hannah (@hannahgsimon)
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello world! I'm Hannah (@hannahgsimon)
 - 📚 Enthusiastic Master of Computer Science student at Cleveland State University, graduating in May 2026
 - 🌱 Passionate about continuous improvement, learning, growth, & pushing the boundaries of technology
 - 🚀 I enjoy solving complex problems and advancing technology through computational innovation
@@ -12,9 +12,9 @@
 
 ---
 
-## Technical Skills
+### ⚙️ Technical Skills ⚙️
 
-### Programming Languages
+#### Programming Languages
 ![C](https://img.shields.io/badge/-C-3B4252?style=flat&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-3B4252?style=flat&logo=cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-3B4252?style=flat&logo=csharp&logoColor=239120)
@@ -27,7 +27,7 @@
 ![Haskell](https://img.shields.io/badge/-Haskell-3B4252?style=flat&logo=haskell&logoColor=5D4F85)
 ![Assembly](https://img.shields.io/badge/-Assembly-3B4252?style=flat&logo=gnu&logoColor=A42E2B)
 
-### Markup & Scripting Languages
+#### Markup & Scripting Languages
 ![HTML](https://img.shields.io/badge/-HTML-3B4252?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-3B4252?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3B4252?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -35,7 +35,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3B4252?style=flat&logo=bootstrap&logoColor=7952B3)
 ![Shell Scripting](https://img.shields.io/badge/-Shell-3B4252?style=flat&logo=gnu-bash&logoColor=4EAA25)
 
-### Tools & Technologies
+#### Tools & Technologies
 ![.NET](https://img.shields.io/badge/-.NET-3B4252?style=flat&logo=dotnet&logoColor=512BD4)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-3B4252?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Git](https://img.shields.io/badge/-Git-3B4252?style=flat&logo=git&logoColor=F05032)
@@ -50,7 +50,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-3B4252?style=flat&logo=flask&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3B4252?style=flat&logo=androidstudio&logoColor=3DDC84)
 
-### Testing & Quality Assurance
+#### Testing & Quality Assurance
 ![xUnit](https://img.shields.io/badge/-xUnit-3B4252?style=flat&logo=xunit&logoColor=FFFFFF)
 ![NSubstitute](https://img.shields.io/badge/-NSubstitute-3B4252?style=flat&logo=dotnet&logoColor=512BD4)
 ![AutoFixture](https://img.shields.io/badge/-AutoFixture-3B4252?style=flat&logo=dotnet&logoColor=512BD4)
