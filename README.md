@@ -1,6 +1,7 @@
 ## About Me
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello world! I'm Hannah (@hannahgsimon)
 - 📚 Enthusiastic Master of Computer Science student at Cleveland State University, graduating in May 2026
+- 🏢 Park Place Technologies Intern · NASA Jet Propulsion Laboratory Intern · 3× Cleveland Clinic Intern
 - 🌱 Passionate about continuous improvement, learning, growth, & pushing the boundaries of technology
 - 🚀 I enjoy solving complex problems and advancing technology through computational innovation
 - 💡 Interests include software engineering, mathematics, algorithm optimization, embedded systems, AI, machine learning, quantum computing, cryptography, & data mining
