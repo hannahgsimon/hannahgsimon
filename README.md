@@ -11,6 +11,8 @@
 - 🤝 I'm always eager to expand my network, collaborate on new projects, or discuss innovative ideas. Please feel free to reach out!  
 &nbsp;<br>
 
+  [![GitHub Follow](https://img.shields.io/github/followers/hannahgsimon.svg?style=social&label=Follow)](https://github.com/hannahgsimon)
+
 ---
 
 ### ⚙️ Technical Skills ⚙️
